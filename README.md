@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/scorypto"><img src="https://api.daily.dev/devcards/v2/qvWPiGPolcYV6EE4Rfdgn.png?type=default&r=wwd" width="356" alt="Yash Rajpurohit's Dev Card"/></a>
-
 <!--
 **scorypto/scorypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
